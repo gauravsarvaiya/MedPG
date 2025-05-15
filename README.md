@@ -1,16 +1,22 @@
-# medpg
 
-A new Flutter project.
+# 🚀 MedPG - Flutter App
 
-## Getting Started
+A modular, scalable Flutter application authentication, persistent login using Secure Storage, shared preferences, and a clean architecture using feature-first folder structure.
 
-This project is a starting point for a Flutter application.
+> ⚙️ Built with Provider and clean architecture,
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Video-Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ https://drive.google.com/drive/folders/1vgpBkbXVfkBI26C-BwHZN0vvH1LUxcTu?usp=drive_link ]
+
+🧪 Includes authentication, splash logic, login persistence, and bottom navigation.
+
+---
+
+## 📸 MedPG APK
+
+[ https://drive.google.com/drive/folders/1aRu-5USaVUxR0ux2M_EiGMC-X5bxVgkl?usp=drive_link ]
+
+---
